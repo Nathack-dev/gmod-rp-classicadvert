@@ -15,7 +15,7 @@ Cette addon sert à crée des ppublicités de manière simple sur votre serveur 
 ## 📷 Images 
 <div align="center">
   <a href="https://github.com/nathack-dev/gmod-rp-classicadvert">
-    <img src="exemple.jpg">
+    <img src="exemple.png">
   </a>
 </div>
 
