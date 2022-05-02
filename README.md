@@ -7,7 +7,7 @@
   <h3 align="center">Commande de Pub</h3>
 
   <p align="left">
-Cette addon sert à crée des ppublicités de manière simple sur votre serveur !
+Cette addon sert à crée des publicités de manière simple sur votre serveur !
     
 <br/>
 </div>
