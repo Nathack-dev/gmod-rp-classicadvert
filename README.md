@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nathack-dev/gmod-rp-roll">
-    <img src="présentation.png" width="720" height="720">
+    <img src="présentation.png">
   </a>
 
   <h3 align="center">Commande de Pub</h3>
